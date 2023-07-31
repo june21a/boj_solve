@@ -50,4 +50,5 @@ int main()
     
     if(st.empty()) cout << result;
     else cout << 0;
+    return 0;
 }
